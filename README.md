@@ -20,5 +20,5 @@ this is a simple map app, with the next components:
  
 ![Image of Maps with markers](assets/snaps/modalPoint.jpeg)
   
- 
-*Enjoy!*
+This examples are part from the [react-native sin fronteras](https://www.udemy.com/course/react-native-sin-fronteras/) course
+
